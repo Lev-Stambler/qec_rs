@@ -1,9 +1,7 @@
-use crate::Code;
-
-fn thicken(code: Code) -> Code {
+fn thicken() {
     todo!()
 }
 
-fn copy_gauge(code: Code) -> Code {
+fn copy_gauge() {
     todo!()
 }
